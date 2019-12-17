@@ -1,0 +1,55 @@
+body {
+    
+   margin-left: 33%;
+    margin-right: 33%;
+    margin-bottom: 0%;
+    border-radius: 20%;
+    
+}
+
+main {
+    text-align: center;
+    padding-top: 5px;
+}
+.artistas {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    padding-left: 6%;
+    padding-right: 6%;
+    grid-gap: 10px;
+  
+}
+
+article {
+   background: rgb(13, 230, 121);
+    padding-top: 5px;
+    height: 135px;
+    width: 135px;
+    border-radius: 20px;
+    border: 2px solid rgb(13, 43, 34);
+}
+
+.img {
+   
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+   
+}
+p{
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+ font-family: 'Chocolate_DRINK', sans-serif;
+    color: rgb(245, 245, 238);
+}
+h1{
+font-family: 'Chocolate_DRINK', sans-serif;
+font-style: normal;
+font-size: 48px;
+line-height: 56px;
+
+
+
+}
